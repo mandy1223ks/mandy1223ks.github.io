@@ -1,0 +1,49 @@
+#top_bar {
+    border-top: 5px solid rgb(23, 79, 150);
+    border-bottom: 1px solid rgb(232, 232, 232);
+}
+
+.thin_content {
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.thin_navbar {
+    margin-left: 25%;
+}
+
+.spacing {
+    margin-top: 20px;
+}
+
+.publication_item {
+    margin-top: 5px;
+    margin-left: 0%;
+}
+
+.publication_title {
+    margin-top: 2px;
+    font-weight: 600;
+    font-size: 112%;
+}
+
+.publication_author {
+    margin-top: 2px;
+    font-size: 95%;
+}
+
+.publication_conference {
+    margin-top: 2px;
+    font-size: 95%;
+}
+.photo {
+    border-radius: 12%
+}
+
+.email{
+    font-family: 'Courier Prime', monospace;
+}
+
+/* .disable{
+    pointer-events: none;
+} */
